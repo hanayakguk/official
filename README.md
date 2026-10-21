@@ -2,7 +2,7 @@
 
 ![하나약국 건강 정보 아카이브](assets/cover.png)
 
-**한국어 건강 정보와 의약품 안전 안내를 정리하는 GitHub Pages 아카이브입니다.**
+**한국어 건강 정보와 의약품 안전 안내를 정리하는 건강 정보 아카이브입니다.**
 
 > **중요 안내**
 > 이 저장소는 건강 정보를 정리하고 공유하기 위한 자료실이며, 의료 진단·처방·판매·주문·배송을 제공하거나 중개하지 않습니다.
@@ -46,7 +46,7 @@
 
 ## 저장소 구조
 
-이 저장소는 GitHub Pages에서 제공되는 정적 사이트입니다.
+이 저장소는 공식 사이트의 건강 정보를 정리해 제공하는 정적 사이트입니다.
 
 ```
 /
@@ -86,4 +86,4 @@
 
 ### English summary
 
-A Korean-language health information archive hosted on GitHub Pages. It summarizes publicly available guidance on medication safety, ingredient differences, and pre-use checks. It does **not** provide diagnosis, prescriptions, sales, orders, or shipping. Prescription medicines require consultation with a qualified healthcare professional.
+A Korean-language health information archive. It summarizes publicly available guidance on medication safety, ingredient differences, and pre-use checks. It does **not** provide diagnosis, prescriptions, sales, orders, or shipping. Prescription medicines require consultation with a qualified healthcare professional.
